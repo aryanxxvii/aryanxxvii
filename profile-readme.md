@@ -128,6 +128,6 @@
 
 ###
 
-<a href="test.com"><em>View all my projects here</em></a>
+<a href="https://github.com/aryanxxvii?tab=repositories"><em>View all my projects here</em></a>
 
 ###
