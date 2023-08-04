@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently studying Computer Science at Vellore Institute of Technology, Bhopal<br>🎯 Eager to explore backend technologies in both cloud and traditional environments<br>🎨 Passionate about Asynchronous Duplex Convergence, IMAX movies and lossless music<br>📧 Mail me at <a href="mailto:aryan.wd@outlook.com">aryan.wd@outlook.com</a><br>📜 Check out my <a href="hello.com">Résumé</a> for more details</p>
+<p align="left">🎓 I'm currently studying Computer Science at Vellore Institute of Technology, Bhopal<br>🎯 Eager to explore backend technologies in both cloud and traditional environments<br>🎨 Passionate about Asynchronous Duplex Convergence, IMAX movies and lossless music<br>📧 Mail me at <a href="mailto:aryan.wd@outlook.com">aryan.wd@outlook.com</a><br>📜 Check out my <a href="https://1drv.ms/b/s!AitngGol65uebF492FtrxuaJRuc?e=dFfgA2">Résumé</a> for more details</p>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<a href="test.com"><h4>Lark API</h4></a>
+<h4><a href="https://larkapi.vercel.app/">Lark API</a></h4>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<a href="test.com"><h4>CodeTube</h4></a>
+<h4><a href="https://codetubeapp.netlify.app/">CodeTube</a></h4>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<a href="test.com"><h4>ChatX</h4></a>
+<h4><a href="https://chatx-db37d.web.app/">ChatX</a></h4>
 
 ###
 
@@ -109,7 +109,7 @@
 
 ###
 
-<a href="test.com"><h4>Foodie</h4></a>
+<h4><a href="https://foo-die.netlify.app">Foodie</a></h4>
 
 ###
 
