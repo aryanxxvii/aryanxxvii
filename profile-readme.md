@@ -21,7 +21,7 @@
     
 </div>
 <div align="center">
-    <h4><a href="aryanwd.vercel.app">Click to view my Portfolio</a></h4>
+    <h4><a href="https://aryanwd.vercel.app">Click to view my Portfolio</a></h4>
     <br>
 </div>
 
