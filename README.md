@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently studying Computer Science at Vellore Institute of Technology, Bhopal<br>🎯 Eager to explore backend technologies in both cloud and traditional environments<br>🎨 Passionate about Asynchronous Duplex Convergence, IMAX movies and lossless music<br>📧 Mail me at <a href="mailto:aryan.wd@outlook.com">aryan.wd@outlook.com</a><br>📜 Check out my <a href="https://1drv.ms/b/s!AitngGol65uebF492FtrxuaJRuc?e=dFfgA2">Résumé</a> for more details</p>
+<p align="left">🎓 I'm currently studying Computer Science at Vellore Institute of Technology, Bhopal<br>📧 Mail me at <a href="mailto:aryan.wd@outlook.com">aryan.wd@outlook.com</a><br>📜 Check out my <a href="https://1drv.ms/b/s!AitngGol65uebF492FtrxuaJRuc?e=dFfgA2">Résumé</a> for more details</p>
 
 ###
 
@@ -63,30 +63,6 @@
 
 <p align="left">A speech assessment RESTful API which provides feedback on English pronunciation such as intonation<br>issues, mispronunciations, and estimated IELTS score using the Wav2vec2 machine learning model.</p>
 
-###
-
-<h4><a href="https://codetubeapp.netlify.app/">CodeTube</a></h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="20" alt="redux logo"  />
-</div>
-
-###
-
-<p align="left">A full-stack video sharing platform for coding content with subscriptions, views, a trending section, language specific search and many other features.</p>
-
-###
-
 <h4><a href="https://chatx-db37d.web.app/">ChatX</a></h4>
 
 ###
@@ -105,33 +81,7 @@
 
 ###
 
-<p align="left">A comprehensive collaboration and chatting webapp with personal chat, group chat, image transfer and voice message support.</p>
-
-###
-
-<h4><a href="https://foo-die.netlify.app">Foodie</a></h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="20" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<p align="left">A full-stack webapp for placing food orders with state-persistent cart, checkout, and payment functionality</p>
-
-###
+<p align="left">A comprehensive collaboration and messaging webapp with personal chat, group chat, image transfer and voice message support.</p>
 
 <a href="https://github.com/aryanxxvii?tab=repositories"><em>View all my projects here</em></a>
 
