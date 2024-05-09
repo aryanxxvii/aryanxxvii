@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">👨‍💻 Full Stack Developer | B.Tech CSE @ VIT Bhopal'25 👨‍🎓</h4>
+<h4 align="center">B.Tech CSE @ VIT Bhopal'25 👨‍🎓</h4>
 
 ###
 
